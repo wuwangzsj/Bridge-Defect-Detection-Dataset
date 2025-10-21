@@ -32,3 +32,7 @@ Each image has been quality-checked and re-labeled to ensure reliable defect loc
 We encourage more researchers to contribute their bridge inspection data to enrich this open resource.
 Our goal is to build a comprehensive and community-driven dataset for advancing intelligent infrastructure inspection.
 All valuable contributions will be integrated and shared openly through this repository.
+
+Contact For collaboration or questions,
+please contact: Shangjun Zhao PhD Student, Hainan University 
+Email: zhaoshangjun@foxmail.com
